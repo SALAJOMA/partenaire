@@ -1,0 +1,25 @@
+.partner-banner {
+    background-color: #f4f4f4;
+    padding: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.partner-banner h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #156ba6;
+    font-family: 'Secca Berline std ExtraBold F2', sans-serif;
+}
+
+.partner-list {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.partner-list img {
+    max-width: 80px;
+    margin: 0 20px;
+    vertical-align: middle;
+}
